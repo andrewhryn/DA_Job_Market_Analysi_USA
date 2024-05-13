@@ -1,14 +1,11 @@
 
-# Job Analysis Project 📊
+# 📊 :us: Data Analyst Jobs Analysis Using SQL 
 
-## Introduction 🚀
+# 🚀 Introduction 
 Welcome to the Job Analysis Project! In this project, we explore Data Analyst positions across the USA. By diving into job postings data, we uncover valuable insights into the top-paying jobs, in-demand skills, and key trends shaping the Data Analyst job market.
-[View SQL Code Here](/SQL_Data_Analyst_Jobs/sql_project/)
+[View SQL Code Here](sql_project)
 
-## Background ℹ️
-In today's data-driven world, the role of Data Analysts has become increasingly vital across industries. As organizations rely more on data to drive decision-making, the demand for skilled professionals in this field continues to soar. Our project aims to shed light on the factors influencing job opportunities and salaries for Data Analysts.
-
-## Tools I used 🛠️
+# 🛠️ Tools I used 
 
 
 
@@ -21,8 +18,15 @@ In today's data-driven world, the role of Data Analysts has become increasingly 
 - **VS Code**
 
 
-## The Analysis 🔍
-### 1) Top Paying Jobs 💰
+
+
+# 🗄️ Database Schema: 
+![image](https://github.com/MadGrib/DA_Job_Market_AnalysisUSA/assets/93443868/f18208b8-1773-4dd3-9e16-a1b1be625994)
+
+* This diagram illustrates the structure of the database tables and their relationships.
+
+# 🔍 The Analysis 
+### 1) Top Paying Jobs 💰 
 We kick-started our analysis by identifying the top-paying Data Analyst jobs in the USA. By querying the database, we uncovered insights into job titles, locations, salaries, and top employers.
 ```sql
 /*
@@ -206,4 +210,4 @@ LIMIT 25;
 This project was not just about analyzing data; it was a journey of discovery. Along the way, we gained valuable insights into the intricacies of the Data Analyst job market, the importance of skill proficiency, and the evolving trends shaping the industry.
 
 ## Conclusion 🌟
-In conclusion, the insights derived from our analysis provide valuable guidance for both job seekers and employers navigating the Data Analyst job market. By understanding the key factors influencing job opportunities and salaries, individuals can chart their career path strategically, while employers can optimize their recruitment strategies to attract top talent. Let's continue to explore and innovate in the ever-evolving world of data analytics!
+By understanding the key factors influencing job opportunities and salaries, individuals can chart their career path strategically, while employers can optimize their recruitment strategies to attract top talent.
