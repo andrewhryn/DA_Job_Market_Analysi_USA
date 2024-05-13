@@ -1,7 +1,11 @@
-
 # 📊 :us: Data Analyst Jobs Analysis Using SQL 
 
 ![jpeg](https://github.com/MadGrib/DA_Job_Market_AnalysisUSA/assets/93443868/3b751f28-27d9-46a6-84cc-903f5a3cf1e4)
+
+[![SQL](https://img.shields.io/badge/SQL-Database-red.svg?style=for-the-badge)](https://www.sql.org/)
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Insights-blue.svg?style=for-the-badge)](https://www.data.org/)
+[![Database](https://img.shields.io/badge/Database-Structure-green.svg?style=for-the-badge)](https://www.database.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-Editor-purple.svg?style=for-the-badge)](https://code.visualstudio.com/)
 
 # 🚀 Introduction 
 Welcome to the Job Analysis Project! In this project, we explore Data Analyst positions across the USA. By diving into job postings data, we uncover valuable insights into the top-paying jobs, in-demand skills, and key trends shaping the Data Analyst job market.
